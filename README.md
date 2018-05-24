@@ -10,4 +10,4 @@ To Install:
 -Type "pip install <repository name>"
 -done
 
--This is a joke, I'm not helping anyone with anything and if ytou take this seriously neck yourself
+-This is a joke, I'm not helping anyone with anything and if you take this seriously neck yourself
